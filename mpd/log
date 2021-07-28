@@ -1,0 +1,162 @@
+Jul 28 06:39 : update: added /Plastic Love (cyberpunk_synthwave remix)-(p).mp3
+Jul 28 06:39 : update: added /Elation - Raydar.mp3
+Jul 28 07:01 : avahi: Initializing interface
+Jul 28 07:01 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 28 07:01 : avahi: Client changed to state 101
+Jul 28 07:01 : avahi: Client is CONNECTING
+Jul 28 07:01 : update: spawned thread for update job id 1
+Jul 28 07:01 : update: starting
+Jul 28 07:01 : state_file: Loading state file /home/allen/.config/mpd/mpdstate
+Jul 28 07:01 : inotify: initializing inotify
+Jul 28 07:01 : update: reading /Plastic Love (cyberpunk_synthwave remix)-(p).mp3
+Jul 28 07:01 : inotify: watching music directory
+Jul 28 07:01 : update: added /Plastic Love (cyberpunk_synthwave remix)-(p).mp3
+Jul 28 07:01 : update: reading /Elation - Raydar.mp3
+Jul 28 07:01 : update: added /Elation - Raydar.mp3
+Jul 28 07:01 : simple_db: removing empty directories from DB
+Jul 28 07:01 : simple_db: sorting DB
+Jul 28 07:01 : simple_db: writing DB
+Jul 28 07:01 : update: finished
+Jul 28 07:02 : avahi: Initializing interface
+Jul 28 07:02 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 28 07:02 : avahi: Client changed to state 101
+Jul 28 07:02 : avahi: Client is CONNECTING
+Jul 28 07:02 : update: spawned thread for update job id 1
+Jul 28 07:02 : update: starting
+Jul 28 07:02 : state_file: Loading state file /home/allen/.config/mpd/mpdstate
+Jul 28 07:02 : inotify: initializing inotify
+Jul 28 07:02 : update: reading /Plastic Love (cyberpunk_synthwave remix)-(p).mp3
+Jul 28 07:02 : inotify: watching music directory
+Jul 28 07:02 : update: added /Plastic Love (cyberpunk_synthwave remix)-(p).mp3
+Jul 28 07:02 : update: reading /Elation - Raydar.mp3
+Jul 28 07:02 : update: added /Elation - Raydar.mp3
+Jul 28 07:02 : simple_db: removing empty directories from DB
+Jul 28 07:02 : simple_db: sorting DB
+Jul 28 07:02 : simple_db: writing DB
+Jul 28 07:02 : update: finished
+Jul 28 07:03 : avahi: Initializing interface
+Jul 28 07:03 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 28 07:03 : avahi: Client changed to state 101
+Jul 28 07:03 : avahi: Client is CONNECTING
+Jul 28 07:03 : update: spawned thread for update job id 1
+Jul 28 07:03 : update: starting
+Jul 28 07:03 : state_file: Loading state file /home/allen/.config/mpd/mpdstate
+Jul 28 07:03 : update: reading /Plastic Love (cyberpunk_synthwave remix)-(p).mp3
+Jul 28 07:03 : inotify: initializing inotify
+Jul 28 07:03 : inotify: watching music directory
+Jul 28 07:03 : update: added /Plastic Love (cyberpunk_synthwave remix)-(p).mp3
+Jul 28 07:03 : update: reading /Elation - Raydar.mp3
+Jul 28 07:03 : update: added /Elation - Raydar.mp3
+Jul 28 07:03 : simple_db: removing empty directories from DB
+Jul 28 07:03 : simple_db: sorting DB
+Jul 28 07:03 : simple_db: writing DB
+Jul 28 07:03 : update: finished
+Jul 28 07:06 : update: removing Plastic Love (cyberpunk_synthwave remix)-(p).mp3
+Jul 28 07:06 : update: added /Plastic Love (cyberpunk_synthwave remix).mp3
+Jul 28 07:06 : update: spawned thread for update job id 2
+Jul 28 07:06 : update: starting
+Jul 28 07:06 : inotify: updating '' job=2
+Jul 28 07:06 : update: removing Plastic Love (cyberpunk_synthwave remix)-(p).mp3
+Jul 28 07:06 : update: reading /Plastic Love (cyberpunk_synthwave remix).mp3
+Jul 28 07:06 : update: added /Plastic Love (cyberpunk_synthwave remix).mp3
+Jul 28 07:06 : simple_db: removing empty directories from DB
+Jul 28 07:06 : simple_db: sorting DB
+Jul 28 07:06 : simple_db: writing DB
+Jul 28 07:06 : update: finished
+Jul 28 07:06 : update: removing Plastic Love (cyberpunk_synthwave remix)-(p).mp3
+Jul 28 07:06 : update: spawned thread for update job id 2
+Jul 28 07:06 : update: starting
+Jul 28 07:06 : inotify: updating '' job=2
+Jul 28 07:06 : update: removing Plastic Love (cyberpunk_synthwave remix)-(p).mp3
+Jul 28 07:06 : update: removing Plastic Love (cyberpunk_synthwave remix)-(p).mp3
+Jul 28 07:06 : update: removing Plastic Love (cyberpunk_synthwave remix)-(p).mp3
+Jul 28 07:06 : update: removing Plastic Love (cyberpunk_synthwave remix)-(p).mp3
+Jul 28 07:06 : update: reading /Plastic Love (cyberpunk_synthwave remix).mp3
+Jul 28 07:06 : update: spawned thread for update job id 2
+Jul 28 07:06 : update: starting
+Jul 28 07:06 : inotify: updating '' job=2
+Jul 28 07:06 : update: removing Plastic Love (cyberpunk_synthwave remix)-(p).mp3
+Jul 28 07:06 : update: reading /Plastic Love (cyberpunk_synthwave remix).mp3
+Jul 28 07:06 : update: added /Plastic Love (cyberpunk_synthwave remix).mp3
+Jul 28 07:06 : update: added /Plastic Love (cyberpunk_synthwave remix).mp3
+Jul 28 07:06 : update: added /Plastic Love (cyberpunk_synthwave remix).mp3
+Jul 28 07:06 : simple_db: removing empty directories from DB
+Jul 28 07:06 : simple_db: sorting DB
+Jul 28 07:06 : simple_db: writing DB
+Jul 28 07:06 : update: added /Plastic Love (cyberpunk_synthwave remix).mp3
+Jul 28 07:06 : simple_db: removing empty directories from DB
+Jul 28 07:06 : simple_db: sorting DB
+Jul 28 07:06 : simple_db: writing DB
+Jul 28 07:06 : exception: Failed to save database: Failed to commit /home/allen/.config/mpd/database: File exists
+Jul 28 07:06 : update: added /Plastic Love (cyberpunk_synthwave remix).mp3
+Jul 28 07:06 : update: finished
+Jul 28 07:06 : update: finished
+Jul 28 07:06 : exception: Failed to save database: Failed to commit /home/allen/.config/mpd/database: File exists
+Jul 28 07:06 : update: added /Plastic Love (cyberpunk_synthwave remix).mp3
+Jul 28 07:14 : avahi: Initializing interface
+Jul 28 07:14 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 28 07:14 : avahi: Client changed to state 101
+Jul 28 07:14 : avahi: Client is CONNECTING
+Jul 28 07:14 : update: spawned thread for update job id 1
+Jul 28 07:14 : update: starting
+Jul 28 07:14 : state_file: Loading state file /home/allen/.config/mpd/mpdstate
+Jul 28 07:14 : update: reading /Plastic Love (cyberpunk_synthwave remix).mp3
+Jul 28 07:14 : inotify: initializing inotify
+Jul 28 07:14 : inotify: watching music directory
+Jul 28 07:14 : update: added /Plastic Love (cyberpunk_synthwave remix).mp3
+Jul 28 07:14 : update: reading /Elation - Raydar.mp3
+Jul 28 07:14 : update: added /Elation - Raydar.mp3
+Jul 28 07:14 : simple_db: removing empty directories from DB
+Jul 28 07:14 : simple_db: sorting DB
+Jul 28 07:14 : simple_db: writing DB
+Jul 28 07:14 : update: finished
+Jul 28 07:27 : avahi: Initializing interface
+Jul 28 07:27 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 28 07:27 : avahi: Client changed to state 101
+Jul 28 07:27 : avahi: Client is CONNECTING
+Jul 28 07:27 : state_file: Loading state file /home/allen/.config/mpd/mpdstate
+Jul 28 07:27 : inotify: initializing inotify
+Jul 28 07:27 : inotify: watching music directory
+Jul 28 07:30 : avahi: Initializing interface
+Jul 28 07:30 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 28 07:30 : avahi: Client changed to state 101
+Jul 28 07:30 : avahi: Client is CONNECTING
+Jul 28 07:30 : state_file: Loading state file /home/allen/.config/mpd/mpdstate
+Jul 28 07:30 : inotify: initializing inotify
+Jul 28 07:30 : inotify: watching music directory
+Jul 28 07:34 : avahi: Initializing interface
+Jul 28 07:34 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 28 07:34 : avahi: Client changed to state 101
+Jul 28 07:34 : avahi: Client is CONNECTING
+Jul 28 07:34 : state_file: Loading state file /home/allen/.config/mpd/mpdstate
+Jul 28 07:34 : inotify: initializing inotify
+Jul 28 07:34 : inotify: watching music directory
+Jul 28 07:48 : update: added /Plastic Love (cyberpunk_synthwave remix).mp3
+Jul 28 07:48 : update: added /Elation - Raydar.mp3
+Jul 28 07:48 : exception: Failed to commit /home/allen/.config/mpd/mpdstate: File exists
+Jul 28 07:48 : exception: Failed to commit /home/allen/.config/mpd/mpdstate: File exists
+Jul 28 07:48 : exception: Failed to commit /home/allen/.config/mpd/mpdstate: File exists
+Jul 28 07:48 : exception: Failed to commit /home/allen/.config/mpd/mpdstate: File exists
+Jul 28 07:48 : state_file: Saving state file /home/allen/.config/mpd/mpdstate
+Jul 28 07:48 : state_file: Saving state file /home/allen/.config/mpd/mpdstate
+Jul 28 07:48 : state_file: Saving state file /home/allen/.config/mpd/mpdstate
+Jul 28 07:48 : exception: Failed to commit /home/allen/.config/mpd/mpdstate: File exists
+Jul 28 07:48 : state_file: Saving state file /home/allen/.config/mpd/mpdstate
+Jul 28 07:48 : state_file: Saving state file /home/allen/.config/mpd/mpdstate
+Jul 28 07:48 : state_file: Saving state file /home/allen/.config/mpd/mpdstate
+Jul 28 07:48 : state_file: Saving state file /home/allen/.config/mpd/mpdstate
+Jul 28 07:48 : avahi: Shutting down interface
+Jul 28 07:48 : avahi: Shutting down interface
+Jul 28 07:48 : avahi: Shutting down interface
+Jul 28 07:48 : avahi: Shutting down interface
+Jul 28 07:48 : avahi: Shutting down interface
+Jul 28 07:48 : avahi: Shutting down interface
+Jul 28 07:48 : avahi: Shutting down interface
+Jul 28 07:57 : update: updating /Plastic Love (cyberpunk_synthwave remix).mp3
+Jul 28 07:58 : update: updating /Plastic Love (cyberpunk_synthwave remix).mp3
+Jul 28 07:59 : update: updating /Plastic Love (cyberpunk_synthwave remix).mp3
+Jul 28 08:25 : update: added /Lee Rosevere - Wireless.mp3
+Jul 28 08:25 : update: added /EVA – 失望した.mp3
+Jul 28 08:25 : update: added /Stellardrone - Airglow.mp3
+Jul 28 08:25 : update: added /Simon Bichbihler - In the 1980s.mp3
+Jul 28 08:43 : exception: Failed to pause "pulse audio" (pulse): failed to connect the stream: Connection terminated
